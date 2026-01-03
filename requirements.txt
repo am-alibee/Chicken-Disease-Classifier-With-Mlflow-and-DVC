@@ -1,17 +1,46 @@
+# tensorflow==2.12.0
+# pandas
+# gdown
+# dvc
+# mlflow==2.2.2
+# numpy
+# matplotlib
+# seaborn
+# python-box==6.0.2
+# pyYAML
+# tqdm
+# ensure==1.0.2
+# joblib
+# types-PyYAML
+# scipy
+# Flask
+# Flask-Cors
+
+
 tensorflow==2.12.0
+mlflow==2.9.2
+dagshub
+
 pandas
-gdown
-dvc
-mlflow==2.2.2
 numpy
+scipy
 matplotlib
 seaborn
+
+dvc
+gdown
+joblib
+tqdm
+
 python-box==6.0.2
 pyYAML
-tqdm
-ensure==1.0.2
-joblib
 types-PyYAML
-scipy
+ensure==1.0.2
+
 Flask
 Flask-Cors
+
+setuptools
+wheel
+
+ruamel.yaml.clib<0.2.8

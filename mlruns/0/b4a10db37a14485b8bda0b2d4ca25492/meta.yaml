@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Documents/machine_leanrning/Deep%20Learning/MLOPS/Chicken-Disease-Classifier-With-Mlflow-and-DVC/mlruns/0/b4a10db37a14485b8bda0b2d4ca25492/artifacts
+end_time: 1767389628497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4a10db37a14485b8bda0b2d4ca25492
+run_name: nervous-rat-936
+run_uuid: b4a10db37a14485b8bda0b2d4ca25492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767389542970
+status: 3
+tags: []
+user_id: hp

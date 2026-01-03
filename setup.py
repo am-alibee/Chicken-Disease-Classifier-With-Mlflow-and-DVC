@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Chicken-Disease-Classifier-With-Mlflow-and-DVC"
 AUTHOR_USER_NAME = "am-alibee"
-SRC_REPO = "ChickenDiseaseClassifier"
+SRC_REPO = "ChestCancerClassifier"
 AUTHOR_EMAIL = "abdulbasitalibaba@gmail.com"
 
 

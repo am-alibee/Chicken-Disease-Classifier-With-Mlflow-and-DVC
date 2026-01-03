@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Documents/machine_leanrning/Deep%20Learning/MLOPS/Chicken-Disease-Classifier-With-Mlflow-and-DVC/mlruns/0/a7f314f3e6bd4398bc3a0ba8f15dbc57/artifacts
+end_time: 1767370133108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7f314f3e6bd4398bc3a0ba8f15dbc57
+run_name: sassy-pig-275
+run_uuid: a7f314f3e6bd4398bc3a0ba8f15dbc57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767370035659
+status: 4
+tags: []
+user_id: hp
